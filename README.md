@@ -16,7 +16,7 @@ Pre-Configured one line command to get my full experience using Oh My Zsh with a
 1. Open git bash as administration
 2. Run the following command in git bash terminal
 ```Bash
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/ayuAtama/OhMyZsh-Widows-Git-Bash/main/setup-zsh.sh)" 
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ayuAtama/test/main/setup-zsh.sh)" 
 ```
 3. Restart git bash terminal
 4. Open git bash from windows terminal

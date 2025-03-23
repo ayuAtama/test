@@ -2,7 +2,7 @@
 
 # Clone repository
 echo "Cloning repository..."
-git clone https://github.com/ayuAtama/OhMyZsh-Widows-Git-Bash.git ~/ohmyzsh-git-bash
+git clone https://github.com/ayuAtama/test.git ~/ohmyzsh-git-bash
 
 # Pindah ke folder hasil clone
 cd ~/ohmyzsh-git-bash || { echo "Gagal masuk ke direktori"; exit 1; }
