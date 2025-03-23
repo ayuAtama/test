@@ -16,7 +16,7 @@ cp -r -v zsh-bin/* /
 
 # Pindahkan semua isi oh-my-zsh_config ke home (~)
 echo "Memindahkan isi oh-my-zsh_config ke $HOME"
-cp -r -v oh-my-zsh_config/* ~
+cp -r -v oh-my-zsh_config/. ~
 
 # Hapus folder oh-my-zsh_config yang kosong
 # rmdir oh-my-zsh_config
